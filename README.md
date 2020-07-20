@@ -2,7 +2,7 @@
 Collection of CSS hover effects.
 
 
-This Repository contains collection of hover effects, transitions, and animations entirely coded in css.
+This Repository is a collection of hover effects, transitions, and animations entirely coded in css.
 One can find much prevalent effects to rarely used effects over here. As it is a collection of effects,
 I have derived inspiration from various sources, like 'simple transitions' are from @IanLunn's collections.
 Although I have derived the inspiration from various sources, but I have coded all the effects entirely by myself.
